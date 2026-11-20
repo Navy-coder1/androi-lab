@@ -24,7 +24,7 @@ object DataSource {
             description = R.string.spring_blooming_flower
         ),
         Plant(
-            name = R.string.pothos,
+            name = R.string.caytrau,
             schedule = R.string.weekly,
             type = R.string.houseplant,
             description = R.string.indoor_vine
